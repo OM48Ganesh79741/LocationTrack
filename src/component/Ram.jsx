@@ -1,6 +1,11 @@
 import React from 'react'
 
 const Ram = () => {
+    function ramesh()
+    {
+        console.log("ramesh called");
+        
+    }
     return (
         <div>
 
