@@ -4,7 +4,7 @@ const Ram = () => {
     return (
         <div>
 
-            <ram>hhhhhhhhhh</ram>
+            <ram>hhhhhhhhhh2895</ram>
 
         </div>
     )
