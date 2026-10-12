@@ -10,7 +10,7 @@ const Ram = () => {
         <div>
 
             <ram>hhhhhhhhhh876</ram>
-             <h1>arvinc shimde</h1>
+
         </div>
     )
 }
