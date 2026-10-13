@@ -9,8 +9,7 @@ const Ram = () => {
     return (
         <div>
 
-            <ram>hhhhhhhhhh2895</ram>
-            <h1>bew msg</h1>
+            <ram>hhhhhhhhhh876</ram>
 
         </div>
     )
