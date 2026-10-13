@@ -5,6 +5,7 @@ const Ram = () => {
         <div>
 
             <ram>hhhhhhhhhh2895</ram>
+            <h1>ram 2</h1>
 
         </div>
     )
