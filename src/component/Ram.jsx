@@ -10,6 +10,7 @@ const Ram = () => {
         <div>
 
             <ram>hhhhhhhhhh2895</ram>
+            <h1>bew msg</h1>
 
         </div>
     )
